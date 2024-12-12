@@ -12,7 +12,7 @@ let active: boolean = false;
 // String
 let firstName = "Niklaus";
 let lastName = "Mickaelson";
-let fullName: string = `${firstName} ${lastName}`; //Os backticks ` ` funcionam para interpolação de valores. Mesma ideia do f"" de PY e ${} do c#
+let fullName: string = `${firstName} ${lastName}`; //As grases ` ` funcionam para interpolação de valores. Mesma ideia do f"" de PY e ($"{}") do c#
 
 // Enums
 //Ideia de uma class
